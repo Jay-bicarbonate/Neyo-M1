@@ -1,6 +1,8 @@
 # Neyo M1
 being from a farmers family i ve seen the whole process of farming up close , and found a lot of things could be automated so i started working a simple agriculatural rover which will make life a lot easier !!
 
+the physical body is almost ready now i am working on navigation and motor control !!
+still a lot of work to do : )
 
 https://github.com/user-attachments/assets/1677fa48-16d8-4c5c-9f7d-cd0179dfdf05
 
